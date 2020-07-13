@@ -1,0 +1,11 @@
+{
+  "name": "doc_to_json_parser",
+  "version": "1.0.0",
+  "description": "Json Doc To Json String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "MIT"
+}
